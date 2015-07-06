@@ -76,4 +76,5 @@ h1, h2, h3, h4, h5, h6 {
 img.sponsor-logo {
   max-height: 200px;
   height: inherit;
+  display: block !important; /* Adblock doesn't like the name sponsor-logo lol */
 }
