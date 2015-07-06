@@ -59,6 +59,7 @@ footer.page-footer {
 
 .logo {
   height: inherit;
+  margin-top: 5px;
 }
 
 .brand-logo {
@@ -73,8 +74,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', 'Helvetica Neue', 'Lucida Grande', Arial, Verdana, sans-serif;
 }
 
-img.sponsor-logo {
+img.spsr-logo {
   max-height: 200px;
   height: inherit;
-  display: block !important; /* Adblock doesn't like the name sponsor-logo lol */
 }
+
+
