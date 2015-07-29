@@ -52,11 +52,31 @@ p {
   }
 }
 
+.connect-icon path {
+  transition: fill 0.1s ease-in;
+}
+
+.connect-icon path:hover {
+  fill: #EF5350; 
+}
+
 .icon-block {
   padding: 0 15px;
 }
 .icon-block .material-icons {
   font-size: inherit;
+}
+
+p.half-para {
+  width: 50%;
+}
+
+p.half-para left {
+  float: left;
+}
+
+p.half-para right {
+  float: right;
 }
 
 footer.page-footer {
