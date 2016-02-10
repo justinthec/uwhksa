@@ -107,6 +107,9 @@ h1, h2, h3, h4, h5, h6 {
 img.spsr-logo {
   max-height: 200px;
   height: inherit;
+}
 
-
+.fb-page--hksa {
+  padding-top: 50px;
+}
 
